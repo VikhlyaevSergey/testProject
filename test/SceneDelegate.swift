@@ -6,6 +6,7 @@
 //  Copyright © 2020 Сергей Вихляев. All rights reserved.
 //
 
+// тополя
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

@@ -6,6 +6,7 @@
 //  Copyright © 2020 Сергей Вихляев. All rights reserved.
 //
 
+// мы убили короля
 import UIKit
 
 class ViewController: UIViewController {
